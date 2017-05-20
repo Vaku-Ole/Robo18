@@ -1,2 +1,6 @@
 class Main
-    def start():
+    def start(self):
+			
+	def init(self):
+
+	def calib(self):
